@@ -71,7 +71,7 @@ const Contact = () => {
               <MapPin className="text-yellow-500" />
               <div>
                 <p className="text-sm text-gray-400">Location</p>
-                <p className="text-white">Balaghat, MadhyaPradesh</p>
+                <p className="text-white">Pune, Maharashtra</p>
               </div>
             </div>
 

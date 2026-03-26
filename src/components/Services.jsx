@@ -10,13 +10,13 @@ const Services = () => {
         "Manage and grow your Instagram presence with consistent posting, content strategy, and audience engagement.",
     },
     {
-      title: "Graphic Designing",
+      title: "Content Creation",
       icon: Palette,
       description:
-        "High-quality creatives, banners, and promotional posts designed to attract attention and build brand identity.",
+        "High-quality creatives, Scripts, and promotional Reels to attract attention and build brand identity.",
     },
     {
-      title: "Reels & Content Creation",
+      title: "Reels & Video Editing ",
       icon: Video,
       description:
         "Engaging reels and short-form content to increase reach, boost engagement, and drive audience growth.",

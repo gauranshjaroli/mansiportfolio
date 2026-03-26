@@ -16,13 +16,13 @@ const About = () => {
 
         {/* Tagline */}
         <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto">
-          Social Media Manager & Graphic Designer helping brands grow through content, creativity, and consistency.
+          Social Media Manager & Content Creator helping brands grow through content, creativity, and consistency.
         </p>
 
         {/* Main Content */}
         <p className="text-gray-300 leading-relaxed max-w-3xl mx-auto">
           I am currently pursuing my MBA and building hands-on experience in 
-          social media management, content creation, and graphic design. 
+          social media management, content creation. 
           Originally from <span className="text-yellow-500">Balaghat, Madhya Pradesh</span>, 
           I am passionate about helping brands grow their online presence through 
           creative strategies and engaging content.

@@ -7,7 +7,7 @@ const Home = () => {
     <>
       {/* SEO */}
       <Helmet>
-        <title>Mansi Bisen | Social Media Manager & Graphic Designer</title>
+        <title>Mansi Bisen | Social Media Manager & Content Creator</title>
         <meta
           name="description"
           content="Mansi Bisen is a Social Media Manager and Graphic Designer helping brands grow through creative content, reels, and strategy."

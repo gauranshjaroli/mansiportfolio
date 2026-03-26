@@ -19,7 +19,7 @@ const Footer = () => {
           </h2>
 
           <p className="text-gray-400 text-sm mb-2">
-            Balaghat, Madhya Pradesh
+            Pune, Maharashtra
           </p>
 
           <p className="text-gray-400 text-sm mb-2 flex items-center justify-center md:justify-start gap-2">
@@ -31,7 +31,7 @@ const Footer = () => {
           </p>
 
           <p className="text-gray-500 text-sm mt-2">
-            Graphic Designer & Social Media Manager
+            Content Creator & Social Media Manager
           </p>
         </div>
 
